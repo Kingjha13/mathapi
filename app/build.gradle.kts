@@ -84,4 +84,5 @@ android {
 
 dependencies {
     // no dependencies needed
+    testImplementation("junit:junit:4.13.2")
 }
