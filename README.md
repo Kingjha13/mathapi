@@ -203,7 +203,7 @@ Free for personal and commercial use.
 
 # 👨‍💻 Author
 
-**King Jha**  
+**Avanish Jha**  
 GitHub: https://github.com/Kingjha13  
 
 ---
